@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "@bone/bone-web-ui": "^1.0.0",
+    "@bone/bone-web-ui-dpl": "^1.0.0",
+    "@bone/web": "^0.2.0-alpha.0",
+    "@bone/web-plugin-panel": "^0.1.0-alpha.0",
+    "antd": "^3.13.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "@bone/bone-kit-web": "^0.1.49",
+    "autoprefixer": "^9.4.6",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-import": "^1.11.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
